@@ -13,3 +13,7 @@ Scrum Synchronous Stand Up Meeting: Feb 9 2024 at 1:00 pm
 Asynchronous team check in schedule: M-F
 
 Agenda: 
+Confirm the full names
+Update the planning board for tasks as each member
+Go through current technical documentation
+Technical documentation questions
