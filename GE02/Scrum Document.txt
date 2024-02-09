@@ -4,9 +4,9 @@ Team Name: Militech
 
 Scrum Coach: Jason Liu
 
-Tech Lead: Name
+Tech Lead: Jeffrey Simonoff
 
-Team Members: Names
+Team Members: Blaise Como, Dunning Demosthenes
 
 Scrum Synchronous Stand Up Meeting: Feb 9 2024 at 1:00 pm
 
@@ -21,10 +21,12 @@ Agenda:
   Is there anything preventing contributors from getting work done?
   Does everyone has access to the technical documentation?
   Technical documentation questions?
+  In section 2.5, no reverse login error instead of the proper result.
 
 2. What did you do yesterday? (3 minutes)
   Assign sections to each member.
   Created shared technical documentation.
+  Dunn completed section 1
 
 
 3. What are your goals for today? (3 minutes)
@@ -32,7 +34,7 @@ Agenda:
   Confirm responsibilities.
   Update the planning board for tasks as each member.
   Go through current technical documentation.
-
+  Make sure we have the correct python and django versions.
 
 4. How close are we to hitting our sprint goals? Comfort level? (2 minutes)
   🔴 🟡 🟢 (%) confidnet we will hit our sprint goals.
