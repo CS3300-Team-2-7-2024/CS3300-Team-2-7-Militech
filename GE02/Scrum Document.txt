@@ -34,7 +34,8 @@ Agenda:
   Confirm responsibilities.
   Update the planning board for tasks as each member.
   Go through current technical documentation.
-  Make sure we have the correct python and django versions.
+  Make sure we have the correct python and django versions. (python - 3.11, django 4.2)
+  Feb 13 midnight for technical documentation.
 
 4. How close are we to hitting our sprint goals? Comfort level? (2 minutes)
-  🔴 🟡 🟢 (%) confidnet we will hit our sprint goals.
+  🟢 (70%) confidnet we will hit our sprint goals.
