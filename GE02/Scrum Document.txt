@@ -18,3 +18,12 @@ Update the planning board for tasks as each member
 Go through current technical documentation
 Technical documentation questions
 Make sure everyone has access to the technical documentation
+
+
+1. Blockers (2 minutes)
+
+2. What did you do yesterday? (3 minutes)
+
+3. What are your goals for today? (3 minutes)
+
+4. How close are we to hitting our sprint goals? Comfort level? (2 minutes)
