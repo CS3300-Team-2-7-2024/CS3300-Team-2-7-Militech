@@ -17,3 +17,4 @@ Confirm the full names
 Update the planning board for tasks as each member
 Go through current technical documentation
 Technical documentation questions
+Make sure everyone has access to the technical documentation
