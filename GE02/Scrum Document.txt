@@ -12,18 +12,27 @@ Scrum Synchronous Stand Up Meeting: Feb 9 2024 at 1:00 pm
 
 Asynchronous team check in schedule: M-F
 
-Agenda: 
-Confirm the full names
-Update the planning board for tasks as each member
-Go through current technical documentation
-Technical documentation questions
-Make sure everyone has access to the technical documentation
 
+
+
+Agenda: 
 
 1. Blockers (2 minutes)
+  Is there anything preventing contributors from getting work done?
+  Does everyone has access to the technical documentation?
+  Technical documentation questions?
 
 2. What did you do yesterday? (3 minutes)
+  Assign sections to each member.
+  Created shared technical documentation.
+
 
 3. What are your goals for today? (3 minutes)
+  Update the full names for each member.
+  Confirm responsibilities.
+  Update the planning board for tasks as each member.
+  Go through current technical documentation.
+
 
 4. How close are we to hitting our sprint goals? Comfort level? (2 minutes)
+  🔴 🟡 🟢 (%) confidnet we will hit our sprint goals.
