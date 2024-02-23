@@ -1,14 +1,14 @@
-Title: GE02 -- Feb 14 2024
+Title: GE03 - March 1st, 2024
 
 Team Name: Militech
 
-Scrum Coach: Jason Liu
+Scrum Coach: Blaise Como
 
-Tech Lead: Jeffrey Simonoff
+Tech Lead: Dunn Idle
 
-Team Members: Blaise Como, Dunning Demosthenes
+Team Members: Jeffrey Simonoff, Jason Liu
 
-Scrum Synchronous Stand Up Meeting: Feb 9 2024 at 1:00 pm
+Scrum Synchronous Stand Up Meeting: Feb 23rd, 1:34 PM
 
 Asynchronous team check in schedule: M-F
 
