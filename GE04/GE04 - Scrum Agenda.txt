@@ -1,0 +1,37 @@
+Title GE04 -- Mar 17 2024
+
+Team Name: Militech
+
+Scrum Coach: Jeffrey Simonoff
+
+Tech Lead: Jason Liu
+
+Team Members Blaise Como, Dunning Demosthenes
+
+Scrum Synchronous Stand Up Meeting Mar 8 2024 at 1:00 pm
+
+Asynchronous team check in schedule M-F
+
+
+
+
+Agenda 
+
+1. Blockers (3 minutes)
+  Is there anything preventing contributors from getting work done?
+  Does everyone has access to the technical documentation?
+  Technical documentation questions:
+  	How to set up the login page?
+
+2. What did you do yesterday (5 minutes)
+  Technical documentation roles assigned
+  
+
+
+3. What are your goals for today (3 minutes)
+  Confirm responsibilities.
+  Go through current technical documentation.
+  Mar 17 midnight for technical documentation.
+
+4. How close are we to hitting our sprint goals Comfort level (3 minutes)
+  🟢 (70%) confident we will hit our sprint goals.
