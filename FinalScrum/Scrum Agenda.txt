@@ -26,7 +26,8 @@ Agenda
 
 
 3. What are your goals for today (3 minutes)
-
+(put tasks on project board)
+(write technical documentation for individual's sections)
 
 4. How close are we to hitting our sprint goals Comfort level (3 minutes)
   🟢 (70%) confident we will hit our sprint goals.
